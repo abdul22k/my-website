@@ -1,0 +1,38 @@
+header{
+    background-color: black;
+    box-sizing: border-box;
+    justify-content: space-between;
+    display: flex;
+}
+ul li a{
+   
+    background-color: rgb(251, 13, 13);
+   text-decoration: none;
+   color: aliceblue;
+  
+
+   
+
+}
+ol li a{
+    text-decoration: none;
+    background-color: rgb(244, 17, 17);
+    color: aliceblue;
+}
+.block{
+    background-color: aqua;
+    display: inline;
+    border-bottom: 3px solid red;
+    text-align: center;
+    display: block;
+    
+}
+.inline{
+    background-color: black; color: aliceblue;
+    text-align: center;
+    border-bottom: 3px solid red;
+}
+.box{
+    text-align: center;
+   
+}
